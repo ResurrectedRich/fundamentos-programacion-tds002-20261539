@@ -7,3 +7,4 @@
 ## Índice de temas
 
 1. [01-HolaMundo](./01-HolaMundo) - Programa de consola con tarjeta de presentación
+2. [02-Variables](./02-Variables) - Programa que solicita datos y calcula el año de nacimiento usando variables, constantes e interpolación de cadenas
