@@ -10,4 +10,5 @@
 2. [02-Variables](./02-Variables) - Programa que solicita datos y calcula el año de nacimiento usando variables, constantes e interpolación de cadenas
 3. [Evaluacion02](./Evaluacion02) - Programas de FichaPersonal, ConversorMoneda y Casting
 4. [03-Operadores](./03-Operadores) - Lee dos enteros y muestra las operaciones básicas (suma, resta, producto, divisiones, residuo, paridad)
+5. [04-Secuencial](./04-Secuencial) - Conversor de unidades: libras a kilogramos y Fahrenheit a Celsius
 
