@@ -9,4 +9,5 @@
 1. [01-HolaMundo](./01-HolaMundo) - Programa de consola con tarjeta de presentación
 2. [02-Variables](./02-Variables) - Programa que solicita datos y calcula el año de nacimiento usando variables, constantes e interpolación de cadenas
 3. [Evaluacion02](./Evaluacion02) - Programas de FichaPersonal, ConversorMoneda y Casting
+4. [03-Operadores](./03-Operadores) - Lee dos enteros y muestra las operaciones básicas (suma, resta, producto, divisiones, residuo, paridad)
 
